@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Os exercícios dessa semana deverão ser feitos em sequência e ao final formaram um pequeno projeto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleytonSvitor/M2S03.git"
+  },
+  "author": "Cleyton Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleytonSvitor/M2S03/issues"
+  },
+  "homepage": "https://github.com/CleytonSvitor/M2S03#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
